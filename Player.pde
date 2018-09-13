@@ -1,3 +1,2 @@
-class Player extends Object{
-  
+class Player extends Object {
 }
